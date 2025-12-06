@@ -7,9 +7,7 @@ A production-ready Retrieval Augmented Generation (RAG) chatbot that answers que
 ## Demo
 
 
-
-https://github.com/user-attachments/assets/a4607370-360f-432a-8dec-4b19ca6e4d99
-
+https://github.com/harshrcb810/RAG-pdf/blob/main/474006550-a4607370-360f-432a-8dec-4b19ca6e4d99.mp4
 
 
 
